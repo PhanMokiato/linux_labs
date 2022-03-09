@@ -1,3 +1,0 @@
-/home/daria/lab1/vector_library/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/daria/lab1/vector_library/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/daria/lab1/vector_library/cmake-build-debug/CMakeFiles/vector_library.dir

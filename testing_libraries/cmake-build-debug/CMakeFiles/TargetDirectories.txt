@@ -1,0 +1,3 @@
+/home/daria/CLionProjects/testing_libraries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/daria/CLionProjects/testing_libraries/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daria/CLionProjects/testing_libraries/cmake-build-debug/CMakeFiles/testing_libraries.dir
