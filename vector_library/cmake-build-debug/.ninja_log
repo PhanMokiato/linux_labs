@@ -1,0 +1,6 @@
+# ninja log v5
+0	96	1646826192941199480	build.ninja	3ac159d69d4eefde
+257	372	1646822010544036988	libvector_library.so	a6092e0bd2772090
+0	257	1646822010428036983	CMakeFiles/vector_library.dir/Vector.cpp.o	256140405aa14561
+0	231	1646826222881955960	CMakeFiles/vector_library.dir/Vector.cpp.o	e1e75adc1f7e6925
+232	316	1646826222965958083	libvector_library.so	a6092e0bd2772090

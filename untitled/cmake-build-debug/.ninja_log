@@ -1,0 +1,8 @@
+# ninja log v5
+0	966	1644955076144446782	CMakeFiles/untitled.dir/main.cpp.o	a34726f5ddfbb933
+967	1204	1644955076380495151	untitled	70eda2c3eb1be2d8
+15	258	1646383454264999388	CMakeFiles/untitled.dir/NumSource.cpp.o	6ceb4b18b32fe1c9
+5	932	1646383454941002757	CMakeFiles/untitled.dir/main.cpp.o	a34726f5ddfbb933
+932	962	1646383454973002916	libuntitled.a	3197bcf3570c98
+1	187	1646423638590645776	CMakeFiles/untitled.dir/NumSource.cpp.o	6ceb4b18b32fe1c9
+187	211	1646423638614644262	libuntitled.a	3197bcf3570c98
